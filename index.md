@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+# Ishita Agarwal's First CS193 Homework
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -15,8 +17,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I like that songs are played in CS 193.
+- I like that the poll results are on the screen when we are answering the quizzes!
 
 This website is under maintainance and will be working shortly.
 
